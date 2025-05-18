@@ -23,3 +23,9 @@ A collection of the latest versions of common software that still work for Windo
  
 # Web
 * Firefox Setup 115.13.0esr
+* Brave v1.47.186
+  * [x64](https://github.com/brave/brave-browser/releases/download/v1.47.186/BraveBrowserStandaloneSetup.exe)
+  * [x86](https://github.com/brave/brave-browser/releases/download/v1.47.186/BraveBrowserStandaloneSetup32.exe)
+ 
+# Misc
+* Adobe Acrobat - `AcroRdrDC2500120432_en_US.exe`
