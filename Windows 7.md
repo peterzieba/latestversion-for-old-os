@@ -1,5 +1,6 @@
 # Overview
-A collection of the latest versions of common software that still work for Windows 7
+A collection of the latest versions of common software that still work for Windows 7.
+* Not included is software for which the latest version still works fine on Windows 7.
 
 # Updates
 * Base updates (good place to start):
