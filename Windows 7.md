@@ -20,13 +20,17 @@ A collection of the latest versions of common software that still work for Windo
 
 # Video
 * [OBS Version 27.2.4](https://github.com/obsproject/obs-studio/releases/tag/27.2.4)
-  * You will need `directx_Jun2010_redist.exe` first. Extract and install.
+  * You will need [`directx_Jun2010_redist.exe`](https://www.microsoft.com/en-us/download/details.aspx?id=8109) first. Extract and run `DXSETUP.EXE`
  
 # Web
-* Firefox Setup 115.13.0esr
+* Firefox Setup 115 esr
+  * https://ftp.mozilla.org/pub/firefox/releases/115.23.1esr/win64/en-US/Firefox%20Setup%20115.23.1esr.exe
+  * 115.23.1esr is the latest as of 5/18/25
+  * Check https://ftp.mozilla.org/pub/firefox/releases/ to see what the latest 115 esr release is.
 * Brave v1.47.186
   * [x64](https://github.com/brave/brave-browser/releases/download/v1.47.186/BraveBrowserStandaloneSetup.exe)
   * [x86](https://github.com/brave/brave-browser/releases/download/v1.47.186/BraveBrowserStandaloneSetup32.exe)
  
 # Misc
 * Adobe Acrobat - `AcroRdrDC2500120432_en_US.exe`
+** https://get.adobe.com/reader/otherversions
