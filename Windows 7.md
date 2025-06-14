@@ -37,4 +37,5 @@ On a fresh Windows 7 SP1 install with no updates, it may fail to install with "A
  
 # Misc
 * Adobe Acrobat - `AcroRdrDC2500120432_en_US.exe`
-** https://get.adobe.com/reader/otherversions
+  * https://get.adobe.com/reader/otherversions
+  * Lightweight alternative to Acrobat Reader: [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
